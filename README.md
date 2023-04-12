@@ -12,14 +12,14 @@ Skills
 
 Projects
 
-    [Cosmos-drama](https://github.com/CharlesJUDITH/cosmos-drama)
-    [Collectd Python MySQL plugin](https://github.com/CharlesJUDITH/collectd-python-mysql)
-    [Crypto prices](https://github.com/CharlesJUDITH/get-crypto-prices)
+   [Cosmos-drama](https://github.com/CharlesJUDITH/cosmos-drama)
+   [Collectd Python MySQL plugin](https://github.com/CharlesJUDITH/collectd-python-mysql)
+   [Crypto prices](https://github.com/CharlesJUDITH/get-crypto-prices)
 
 Blogs
 
-    [Decentralization in Cosmos Hub](https://medium.com/@chuckfromtheblock/decentralization-in-cosmos-hub-9367431d7619)
-    [Validators data on Cosmos Hub](https://medium.com/@chuckfromtheblock/validators-data-on-cosmos-hub-ec0aef5c6027)
+   [Decentralization in Cosmos Hub](https://medium.com/@chuckfromtheblock/decentralization-in-cosmos-hub-9367431d7619)
+   [Validators data on Cosmos Hub](https://medium.com/@chuckfromtheblock/validators-data-on-cosmos-hub-ec0aef5c6027)
 
 Get in touch
 
