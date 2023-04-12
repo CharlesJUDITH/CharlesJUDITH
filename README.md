@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Kubernetes, Python, Golang, AWS
 - 👯 I’m looking to collaborate on Cosmos ecosystem, Kuberneres, GO, Python
-- 📫 How to reach me: LinkedIn
 
 ## Skills
 
