@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Kubernetes, Python, Golang, AWS
-- 👯 I’m looking to collaborate on Cosmos ecosystem, Kuberneres, GO, Python
+- 👯 I’m looking to collaborate on Cosmos ecosystem, Kubernetes, GO, Python
 
 ## Skills
 
