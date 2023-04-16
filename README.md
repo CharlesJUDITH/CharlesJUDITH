@@ -25,4 +25,4 @@
 
 ## Get in touch
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/charles-judith-572812188/) or [Twitter](https://www.linkedin.com/in/charles-judith-572812188/). I'd love to hear from you!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/charles-judith-572812188/) or [Twitter](https://twitter.com/Charles_JUDITH). I'd love to hear from you!
