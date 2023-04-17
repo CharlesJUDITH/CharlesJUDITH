@@ -12,6 +12,8 @@
 ## Projects
 
    [Cosmos-drama](https://github.com/CharlesJUDITH/cosmos-drama)
+   
+   [Cosmos events 2023](https://github.com/CharlesJUDITH/cosmos-events)
 
    [Collectd Python MySQL plugin](https://github.com/CharlesJUDITH/collectd-python-mysql)
 
