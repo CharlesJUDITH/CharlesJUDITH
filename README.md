@@ -29,7 +29,7 @@
 
 ## Stats
 
-![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlesJUDITH&show_icons=true&theme=radical)
+![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlesJUDITH&show_icons=true&theme=blue-green)
 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesJUDITH&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
