@@ -27,6 +27,13 @@
 
    [Validators data on Cosmos Hub](https://medium.com/@chuckfromtheblock/validators-data-on-cosmos-hub-ec0aef5c6027)
 
+## Stats
+
+![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlesJUDITH&show_icons=true&theme=radical)
+
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesJUDITH&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Get in touch
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/charles-judith-572812188/) or [Twitter](https://twitter.com/Charles_JUDITH). I'd love to hear from you!
