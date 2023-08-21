@@ -7,7 +7,8 @@
 
     Programming languages: Python, Golang
     Frameworks: Django, Flask, FastAPI
-    Databases: MySQL, Postgres 
+    Databases: MySQL, Postgres
+    Cloud: AWS, GCP
 
 ## Projects
 
